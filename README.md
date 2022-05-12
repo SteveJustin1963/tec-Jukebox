@@ -6,8 +6,6 @@ Who invented the jukebox in 1920? In 1918, Hobart C. Niblack created a device th
  
 ELECTRONICS MODULE MP3 JUKEBOX - VM202N / ebay
 
-![image](https://user-images.githubusercontent.com/58069246/168183543-746487fe-ee10-46db-b0c9-6c220144fc20.png)
-
 ![image](https://user-images.githubusercontent.com/58069246/168183619-6311c373-21d0-43ce-bd84-b40d367be17b.png)
 
 
